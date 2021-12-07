@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SalesByMatch": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "OUTPUT_PATH": "SampleInput.txt"
+      }
+    }
+  }
+}
